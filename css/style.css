@@ -1,0 +1,167 @@
+/* CSS Document */
+@import url('reset.css');
+@import url('typography.css');
+body {
+	 background: url('../img/BackGround2.jpg') no-repeat;
+	  background-position: center bottom ;
+	background-color: #000000;
+	margin:auto;
+	width: 100%;
+}
+
+div#status-bar {
+ background: url('../img/StatusBarBackGround.png') repeat-x;
+ height: 90px;
+ width: 100%;
+ }
+ 
+ div#status-bar-content {
+ margin: 0px auto 0px auto;
+ width: 800px;
+ }
+ 
+ div#status-bar-titul {
+		  background: url('../img/Total.png') no-repeat; 
+	  margin: 0px auto 0px auto;
+	 padding-top: 28px;
+	 width: 800px;
+ }
+ 
+ form#search-form {
+ float: right;
+ width: 200px;
+ }
+ 
+ div#Name {
+padding: 0px 0px 0px 80px;
+	 float:left;
+	 width: 320px;
+ }
+ 
+ div#Rekvisits {
+	 float:right;
+	 	 padding: 10px 10px 0px 10px;
+	 width: 370px;
+ }
+
+ div#ActBar {
+	 padding: 45px 10px 0px 10px;
+	 width: 400px;
+ }
+
+ 
+ form#search-form input[type="text"] {
+ background: url(../img/Search.png) no-repeat;
+ border:none;
+ height:23px;
+ padding: 2px 0px 0px 35px;
+ width:170px;
+ }
+ 
+ form#search-form input[type="submit"] {
+ display: none;
+ }.wer {
+}
+
+
+div#header {
+ height: 160px;
+ margin:auto;
+ width: 800px;
+ }
+
+ div#logo {
+ margin: 0px auto 0px auto;
+ width: 800px;
+ }
+ 
+ div#logo1 {
+ margin: 30px auto 0px 30px;
+ width: 750px;
+ }
+ 
+  div#logo2 {
+ margin: 40px 10px 0px 400px;
+ width: 350px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+div#content {
+ height: 360px;
+  padding: 0px 0px 0px 50px;
+ margin: auto;
+ position: relative;
+ width: 800px;
+ }
+
+
+ li#Service {
+ background: url(../img/Quadrat.png) no-repeat;
+ border:none;
+ height:54px;
+ padding: 5px 0px 0px 40px;
+ width:170px;
+ }
+
+ li#Diagnostic {
+ background: url(../img/Quadrat.png) no-repeat;
+ border:none;
+ height:54px;
+ padding: 5px 0px 0px 40px;
+ width:170px;
+ }
+
+ li#Repairing {
+ background: url(../img/Quadrat.png) no-repeat;
+ border:none;
+ height:84px;
+ padding: 5px 0px 0px 40px;
+ width:170px;
+ }
+
+ li#Contact {
+ background: url(../img/Quadrat.png) no-repeat;
+ border:none;
+ height:84px;
+ padding: 5px 0px 0px 40px;
+ width:170px;
+ }
+
+ li#AboutUs {
+ background: url(../img/Quadrat.png) no-repeat;
+ border:none;
+ height:54px;
+ padding: 5px 0px 0px 40px;
+ width:170px;
+ }
+
+
+ div#home {
+ margin: 0px auto 0px auto;
+ width: 800px;
+ }
+ 
+ div#about {
+ margin: 30px auto 0px auto;
+ width: 800px;
+ }
+
+
+
+
+div#footer {
+ background: url('../img/StatusBarBackGround2.png') repeat-x;
+ height: 50px;
+ width: 100%;
+ }
+ 
